@@ -1,0 +1,32 @@
+.div-direita {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 349.38px;
+    align-items: center;
+    container: column;
+    margin-top: 30%;
+}
+
+.div-direita,
+.div-esquerda {
+    disp
+}
+
+.div-esquerda {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    container: column;
+    margin-top: 30%;
+}
+
+.logo {
+    width: 374px;
+    height: 80px;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+}
